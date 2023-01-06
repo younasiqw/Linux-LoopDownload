@@ -13,3 +13,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload
 ```
 http://mirror.hk.leaseweb.net/speedtest/10000mb.bin
 ```
+[Test File Link List](https://github.com/younasiqw/Linux-LoopDownload/blob/main/Test%20File%20Link%20List.txt)
