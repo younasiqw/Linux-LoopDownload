@@ -6,9 +6,9 @@ Linux：
 ```
 bash https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/Loop-Downloader.sh
 ```
-
+```
 bash https://reurl.cc/AymYap
-
+```
 
 ## Test File Link
 
