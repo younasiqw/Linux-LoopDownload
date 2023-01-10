@@ -6,6 +6,9 @@ Linux：
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/Loop-Downloader.sh)
 ```
+```
+bash <(curl -fsSL https://acg.kr/LoopDownload)
+```
 
 ## Test File Link
 
