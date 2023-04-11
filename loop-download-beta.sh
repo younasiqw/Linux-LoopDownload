@@ -9,7 +9,7 @@ do
     # 获取用户输入的下载地址和协议类型
     echo "请输入要下载的文件地址："
     read download_url
-    echo "请选择要使用的协议类型（IPv4, IPv6）："
+    echo "请选择要使用的协议类型（1: IPv4, 2: IPv6）："
     read protocol_type
 
     # 检查是否存在 wget 命令
@@ -18,8 +18,8 @@ do
         exit 1
     fi
 
-    # 下载文件
-    if [ "$protocol_type" = "IPv6" ]; then
+    # 根据用户选择的协议类型进行下载
+    if [ "$protocol_type" = "2" ]; then
         # 使用 IPv6 进行下载
         echo "将使用 IPv6 进行下载。"
         wget --no-check-certificate -6 "$download_url" -P ~/Downloads/
