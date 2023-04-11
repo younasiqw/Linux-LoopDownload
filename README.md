@@ -6,12 +6,12 @@ Linux：
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/Loop-Downloader.sh)
 ```
+```
+bash <(curl -fsSL https://acg.kr/LoopDownload)
+```
 Beta：
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/loop-download-beta.sh)
-```
-```
-bash <(curl -fsSL https://acg.kr/LoopDownload)
 ```
 
 ## Test File Link
