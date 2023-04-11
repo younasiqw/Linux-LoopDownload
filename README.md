@@ -5,6 +5,7 @@ Linux Loop Download Wasting Network Data Thx @Ashes26
 Linux：
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/Loop-Downloader.sh)
+```
 bash <(curl -fsSL https://raw.githubusercontent.com/younasiqw/Linux-LoopDownload/main/loop-download-beta.sh)
 ```
 ```
